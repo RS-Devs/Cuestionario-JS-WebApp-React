@@ -1,0 +1,36 @@
+nav {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    }
+    
+    .nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    }
+    
+    .nav-title {
+    font-size: 30px;
+    text-align: center;
+    }
+    
+    .nav-subtitle {
+    font-size: 14px;
+    text-align: center;
+    font-weight: normal;
+
+    }
+    
+    .nav-title, .nav-subtitle {
+    margin: 0;
+    }
+
+    .js{
+        color: rgb(255, 230, 0);
+    }
